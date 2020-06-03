@@ -1,7 +1,7 @@
 ---
-layout: contact_us
-title: Contact Us
-permalink: /contact-us/
+layout: covid-19
+title: Covid-19
+permalink: /covid-19/
 agency_name: Agency Name
 locations:
   - title: Main Office
