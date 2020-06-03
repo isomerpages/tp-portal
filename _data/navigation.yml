@@ -14,6 +14,6 @@ links:
   - title: Campus
     collection: campus
   - title: Covid-19
-    collection: /covid-19/    
+    url: /covid-19/    
   - title: Press Room
     resource_room: true
