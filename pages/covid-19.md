@@ -1,8 +1,10 @@
+# Sample code snippet for simple page
+# Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
-layout: covid-19
 title: Covid-19
 permalink: /covid-19/
-agency_name: Agency Name
+breadcrumb: covid-19
+---
 locations:
   - title: Main Office
     address:
